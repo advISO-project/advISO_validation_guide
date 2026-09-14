@@ -45,3 +45,6 @@ This guide forms part of the advISO series of practical how-to resources for lab
 
     source/1_background
     source/2_scope_definitions
+    source/3_performance_criteria
+    source/4_validation_planning
+    source/5_validation_datasets
