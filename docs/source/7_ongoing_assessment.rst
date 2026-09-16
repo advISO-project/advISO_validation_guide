@@ -1,8 +1,11 @@
+.. _ongoing-assessment
+
 ===========================================================================
 Assessing ongoing fitness for purpose
 ===========================================================================
 
-Validation at the point of implementation provides evidence that a pipeline delivers the required performance criteria at that time, but it does not guarantee that the pipeline remains fit for purpose throughout its ongoing use. As outlined in Section 2, ISO 15189 requires that laboratories have a process in place to monitor ongoing fitness for purpose. This may involve checking fitness for purpose following a specific change to the pipeline or its dependencies, or monitoring performance over time in the absence of any identified change, in order to detect drift that develops gradually rather than as the result of a single event.
+Validation at the point of implementation provides evidence that a pipeline delivers the required performance criteria at that time, but it does not guarantee that the pipeline remains fit for purpose throughout its ongoing use. As outlined in Section 2, ISO 151
+89 requires that laboratories have a process in place to monitor ongoing fitness for purpose. This may involve checking fitness for purpose following a specific change to the pipeline or its dependencies, or monitoring performance over time in the absence of any identified change, in order to detect drift that develops gradually rather than as the result of a single event.
 
 Verification and revalidation triggers
 --------------------------------------
