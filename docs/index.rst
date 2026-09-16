@@ -8,6 +8,8 @@ This guide has been produced as part of the Wellcome Trust-funded *ISO in a Box*
 
 This guide provides practical guidance for laboratories seeking to validate bioinformatics pipelines in accordance with `ISO 15189:2022 <https://www.iso.org/standard/76677.html>`_.
 
+---------------------------------------------------------------------------------------
+
 Other guides in this series
 -----------------------------
 
