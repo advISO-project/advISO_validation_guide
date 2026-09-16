@@ -1,7 +1,7 @@
 .. _ongoing-assessment:
 
 ===========================================================================
-Assessing ongoing fitness for purpose
+Assessing Ongoing Fitness for Purpose
 ===========================================================================
 
 Validation at the point of implementation provides evidence that a pipeline delivers the required performance criteria at that time, but it does not guarantee that the pipeline remains fit for purpose throughout its ongoing use. As outlined in Section 2, ISO 151

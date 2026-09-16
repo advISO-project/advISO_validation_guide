@@ -1,5 +1,5 @@
 ===========================================================================
-Curating validation test datasets
+Curating Validation Test Datasets
 ===========================================================================
 
 .. _curating-validation-test-datasets:
