@@ -1,4 +1,4 @@
-.. _ongoing-assessment
+.. _ongoing-assessment:
 
 ===========================================================================
 Assessing ongoing fitness for purpose

@@ -35,7 +35,7 @@ Verification applies in two circumstances:
 
 -----------------------------------------------
 
-.. _definitions-performance-criteria
+.. _definitions-performance-criteria:
 
 Definitions
 -----------
