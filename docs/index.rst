@@ -1,10 +1,12 @@
 ===========================================================================
-Welcome to advISO's guide to validating bioinformatics pipelines
+Welcome to the advISO Validation Guide
 ===========================================================================
 
 **Release:** |release|  [|today|]
 
-This guide provides practical guidance for laboratories seeking to validate bioinformatics pipelines in accordance with `ISO 15189:2022 <https://www.iso.org/standard/76677.html>`_. 
+This guide has been produced as part of the Wellcome Trust-funded *ISO in a Box* project, which aims to support laboratories seeking ISO 15189 accreditation for clinical bioinformatics. The project is led by Cardiff University, in collaboration with Public Health Wales, Wellcome Sanger Institute, and the South African National Bioinformatics Institute.
+
+This guide provides practical guidance for laboratories seeking to validate bioinformatics pipelines in accordance with `ISO 15189:2022 <https://www.iso.org/standard/76677.html>`_.
 
 Other guides in this series
 -----------------------------
