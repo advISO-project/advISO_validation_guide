@@ -68,4 +68,4 @@ Below are definitions of the performance characteristics that are typically asse
 
     The ability of a pipeline to produce valid, clinically or epidemiologically meaningful results across the full span of input conditions it may encounter in use. Reportable range is assessed by processing samples that span the expected extremes of relevant input variables (e.g. sequencing depth/coverage, sample quality, sample types, pathogen load, tumour content etc.) through the pipeline, and determining the boundaries within which output calls remain valid.
 
-Additional definitions of ISO 15189 terms are provided in the `glossary of terms <https://adviso-sop-guide.readthedocs.io/en/latest/glossary.html>`_.
+Additional definitions of ISO 15189 terms are provided in the `glossary of terms <https://adviso-sop-guide.readthedocs.io/en/latest/glossary.html>`_ section of our SOP writing Guide.
