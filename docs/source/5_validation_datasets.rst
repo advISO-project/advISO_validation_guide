@@ -2,15 +2,21 @@
 Curating validation test datasets
 ===========================================================================
 
+.. _curating-validation-test-datasets:
+
 Principles
 ----------
 
 As far as reasonably possible, test datasets should capture the fullest range of samples that the pipeline would be expected to encounter in its intended use. This should include straightforward cases as well as samples likely to challenge the pipeline, such as low quality or low input material, results close to a decision threshold, and known difficult scenarios relevant to the pipeline's application.
 
+----------------------------------------------------------------------------------------------
+
 Challenges
 ----------
 
 In practice, curating a validation dataset that meets the principles set out above is not always straightforward. Access to relevant samples, particularly rare or difficult cases, may be limited, and obtaining or generating them can carry significant cost. For many pipelines, no relevant external quality assessment scheme exists to provide independently characterised samples, leaving laboratories reliant on their own limited sample archives or, where available, samples shared through informal collaboration with other laboratories.
+
+----------------------------------------------------------------------------------------------
 
 Possible solutions
 ------------------

@@ -7,10 +7,14 @@ Assessing ongoing fitness for purpose
 Validation at the point of implementation provides evidence that a pipeline delivers the required performance criteria at that time, but it does not guarantee that the pipeline remains fit for purpose throughout its ongoing use. As outlined in Section 2, ISO 151
 89 requires that laboratories have a process in place to monitor ongoing fitness for purpose. This may involve checking fitness for purpose following a specific change to the pipeline or its dependencies, or monitoring performance over time in the absence of any identified change, in order to detect drift that develops gradually rather than as the result of a single event.
 
+----------------------------------------------------------------------------------------------
+
 Verification and revalidation triggers
 --------------------------------------
 
 A defined set of triggers should be established to identify when a pipeline requires verification or revalidation, rather than relying on this being identified informally. Triggers may include changes to the pipeline's code or configuration, updates to reference databases or annotation sources, changes to the version of underlying software or tools used within the pipeline, and changes to the sequencing platform or wet laboratory protocol that generates the data the pipeline processes. Triggers may also include changes to the clinical or public health use case the pipeline supports, or to the intended population it is applied to, since a change in use case can alter the performance criteria the pipeline is required to meet. In addition to these change based triggers, periodic monitoring through regression testing, in which the pipeline is run at defined intervals against its existing validation dataset or a fixed set of reference samples, allows performance to be confirmed as stable over time and can surface drift not captured by an identifiable change.
+
+----------------------------------------------------------------------------------------------
 
 Deciding between verification and full revalidation
 ---------------------------------------------------
