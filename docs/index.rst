@@ -46,6 +46,12 @@ This guide forms part of the advISO series of practical how-to resources for lab
       +++
       `Go to Audit Guide <https://adviso-audit-guide.readthedocs.io/en/latest/>`_
 
+-------------------------------------
+
+.. figure:: source/_static/partner_logos.png
+        :align: center
+        :width: 650px
+
 .. toctree::
     :hidden:
     :maxdepth: 2
