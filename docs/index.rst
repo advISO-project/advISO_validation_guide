@@ -21,14 +21,6 @@ This guide forms part of the advISO series of practical how-to resources for lab
 
 .. grid:: 1 2 3 3
    :gutter: 3
-   
-   .. grid-item-card:: 📄 SOP Guide
-      :class-card: sd-shadow-sm sd-border-primary
-
-      Guidance for writing standard operating procedures (SOPs).
-      
-      +++
-      `Go to SOP Guide <https://adviso-sop-guide.readthedocs.io/en/latest/>`_
 
    .. grid-item-card:: 🎓 Competency Guide
       :class-card: sd-shadow-sm sd-border-primary
@@ -37,6 +29,14 @@ This guide forms part of the advISO series of practical how-to resources for lab
       
       +++
       `Go to Competency Guide <https://adviso-competency-guide.readthedocs.io/en/latest/>`_
+
+   .. grid-item-card:: 📄 SOP Guide
+      :class-card: sd-shadow-sm sd-border-primary
+
+      Guidance for writing standard operating procedures (SOPs).
+      
+      +++
+      `Go to SOP Guide <https://adviso-sop-guide.readthedocs.io/en/latest/>`_
 
    .. grid-item-card:: 🔍 Audit Guide
       :class-card: sd-shadow-sm sd-border-primary
