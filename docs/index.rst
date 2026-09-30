@@ -61,3 +61,4 @@ This guide forms part of the advISO series of practical how-to resources for lab
     source/6_validation_execution
     source/7_ongoing_assessment
     source/8_summary
+    source/9_glossary
