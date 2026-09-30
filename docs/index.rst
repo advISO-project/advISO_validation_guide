@@ -19,32 +19,29 @@ Other guides in this series
 
 This guide forms part of the advISO series of practical how-to resources for laboratories working toward ISO accreditation:
 
-.. grid:: 1 2 3 3
+.. grid:: 3
    :gutter: 3
 
-   .. grid-item-card:: 🎓 Competency Guide
-      :class-card: sd-shadow-sm sd-border-primary
+   .. grid-item::
 
-      Guidance for assessing competency of staff using competency frameworks.
-      
-      +++
-      `Go to Competency Guide <https://adviso-competency-guide.readthedocs.io/en/latest/>`_
+      .. image:: source/_static/sop_guide_button.png
+         :target: https://adviso-sop-guide.readthedocs.io/en/latest/
+         :alt: advISO SOP Guide
+         :class: guide-button
 
-   .. grid-item-card:: 📄 SOP Guide
-      :class-card: sd-shadow-sm sd-border-primary
+   .. grid-item::
 
-      Guidance for writing standard operating procedures (SOPs).
-      
-      +++
-      `Go to SOP Guide <https://adviso-sop-guide.readthedocs.io/en/latest/>`_
+      .. image:: source/_static/competency_guide_button.png
+         :target: https://adviso-competency-guide.readthedocs.io/en/latest/
+         :alt: advISO Competency Guide
+         :class: guide-button
 
-   .. grid-item-card:: 🔍 Audit Guide
-      :class-card: sd-shadow-sm sd-border-primary
+   .. grid-item::
 
-      Guidance on planning and conducting bioinformatics audits.
-      
-      +++
-      `Go to Audit Guide <https://adviso-audit-guide.readthedocs.io/en/latest/>`_
+      .. image:: source/_static/audit_guide_button.png
+         :target: https://adviso-audit-guide.readthedocs.io/en/latest/
+         :alt: advISO Audit Guide
+         :class: guide-button
 
 -------------------------------------
 
