@@ -52,7 +52,7 @@ html_css_files = [
 ]
 
 # Path to the logo
-html_logo = 'source/_static/logo.png'
+html_logo = '_static/logo.png'
 
 html_theme_options = {
     'logo_only': True,
