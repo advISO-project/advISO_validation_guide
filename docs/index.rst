@@ -1,3 +1,15 @@
+.. grid:: 1
+   :gutter: 3
+
+   .. grid-item::
+
+      .. image:: _static/guide_series_button_horizontal.png
+         :target: https://adviso-guide-series.readthedocs.io/en/latest/
+         :alt: advISO Guide Series
+         :width: 100%
+         :align: center
+         :class: guide-button
+         
 ===========================================================================
 Welcome to the advISO Validation Guide
 ===========================================================================
@@ -21,18 +33,6 @@ Other guides in this series
 
 This guide forms part of the advISO series of practical how-to resources for
 laboratories working toward ISO accreditation:
-
-.. grid:: 1
-   :gutter: 3
-
-   .. grid-item::
-
-      .. image:: _static/guide_series_button_horizontal.png
-         :target: https://adviso-guide-series.readthedocs.io/en/latest/
-         :alt: advISO Guide Series
-         :width: 100%
-         :align: center
-         :class: guide-button
 
 .. grid:: 2
    :gutter: 3
