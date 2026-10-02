@@ -98,4 +98,3 @@ Find out more about the `advISO Bioinformatics accreditation in a box project <h
     source/6_validation_execution
     source/7_ongoing_assessment
     source/8_summary
-    source/9_glossary
