@@ -22,7 +22,7 @@ under_development = True
 guide_subtitle = 'Validation Guide'
 
 ## To do: Set the sidebar background colour (hex).
-sidebar_color = '#5FA8C2'
+sidebar_color = '#5189C0'
 
 # To do: Set the GitHub repository URL for the guide. This is used to generate links to the guide's source code and issues on GitHub.
 github_repo = 'https://github.com/advISO-project/advISO_validation_guide'
