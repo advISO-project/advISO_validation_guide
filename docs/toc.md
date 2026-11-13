@@ -10,4 +10,5 @@ pages/5_validation_datasets
 pages/6_validation_execution
 pages/7_ongoing_assessment
 pages/8_summary
+pages/contributors
 ```

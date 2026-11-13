@@ -10,10 +10,10 @@ from datetime import date
 
 ## To do: Update guide name, author, copyright, release, version, and github_repo to match your guide.
 guide_name = 'advISO Validation Guide'
-author = 'advISO'
-copyright = '2026, licensed under CC BY-NC-SA 4.0'
-release = '0.1'
-version = '0.1.0'
+author = 'advISO Team'
+copyright = f'{author} & contributors'
+release = '0.2'
+version = '0.2.0'
 
 ## To do: Set under_development to True if the guide is still under development, or False if it is ready for release. This controls whether the "under development" message is displayed on the index page.
 under_development = True
@@ -92,6 +92,7 @@ intersphinx_disabled_domains = ['std']
 html_theme = 'sphinx_rtd_theme'
 
 html_static_path = ['_static']
+templates_path = ['_templates']
 
 html_css_files = [
     'custom.css',
@@ -113,8 +114,10 @@ epub_show_urls = 'footnote'
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '_scripts'))
 from generate_logo import generate_logo
 from generate_buttons import generate_buttons
+from generate_contributors import generate_contributors
 generate_logo(guide_subtitle)
 generate_buttons(guide_subtitle, sidebar_color)
+generate_contributors(github_repo)
 
 _css_path = os.path.join(os.path.dirname(__file__), '_static', 'custom.css')
 with open(_css_path, 'w') as _f:
