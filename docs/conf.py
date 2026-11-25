@@ -10,8 +10,8 @@ from datetime import date
 
 ## To do: Update guide name, author, copyright, release, version, and github_repo to match your guide.
 guide_name = 'advISO Validation Guide'
-author = 'advISO Team'
-copyright = f'{author} & contributors'
+author = 'Cardiff University, Public Health Wales, Wellcome Sanger Institute & University of the Western Cape'
+copyright = f'{date.today().year}, {author}'
 release = '0.2'
 version = '0.2.0'
 
